@@ -1,1 +1,2 @@
 # Pavan-Polisetty-Assignment-3.2-Create-an-API-with-Mongo-DB-data.
+This code can be used to add, update, or delete data in the Mongo DB from Cricket.Run the server after creating a json file using the preceding assignment. With the use of key-value pairings, all data is stored as BSON documents. MongoDB transforms JSON data into BSON, a binary format, at the backend. Nested data is also supported by MongoDB. This increases the efficiency of data retrieval.
